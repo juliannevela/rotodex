@@ -8,7 +8,6 @@
 -   [Roadmap](#roadmap)
 -   [Resources & Attribution](#sources)
 -   [License](#license)
--   [Contact](#contact)
 
 ## About
 
