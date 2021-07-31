@@ -1,4 +1,4 @@
-# Pokedex - A Dex for Pokemon
+# Rotodex - A Dex for Pokemon
 
 Data source: [Pokedex](http://pokeapi.com)
 
