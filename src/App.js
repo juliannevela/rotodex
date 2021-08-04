@@ -1,12 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import PokedexScreen from './screens/PokedexScreen';
 
-export default function App() {
+export default function Rotodex() {
     return (
         <View style={styles.container}>
             <Text>Howdy World!</Text>
-            <StatusBar style='auto' />
+            <PokedexScreen />
         </View>
     );
 }
