@@ -12,3 +12,8 @@ web-build/
 
 # macOS
 .DS_Store
+
+# IDEs
+.vscode
+!.vscode/settings.json
+!.vscode/cspell.json
