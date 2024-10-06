@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# Rotodex - A Pokemon Trainer's Companion App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Table of Contents
 
-## Get started
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Resources & Attribution](#sources)
+- [License](#license)
 
-1. Install dependencies
+## About
 
-   ```bash
-   npm install
-   ```
+Rotodex is a companion app for Pokemon Trainers. It allows you to keep track of your pokemon collection as you work toward completing your pokedex. You can search pokemon by name, type, generation, or even by collected status. Rotodex also allows you to view your collection in a variety of ways, including a list, a grid, and a card. Rotodex is written in [React Native](https://facebook.github.io/react-native/).
 
-2. Start the app
+<!-- What was your motivation? -->
 
-   ```bash
-    npx expo start
-   ```
+As an avid pokemon card collector, I wanted a way to keep track of my collection digitally. I also wanted to be able to view my collection in a variety of ways, including a list, a grid, and by individual pokemon card. I also wanted to be able to search the pokedex in a variety of ways and filter my view to see which pokemon I'm missing.
 
-In the output, you'll find options to open the app in a
+<!-- Why did you build this project? -->
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+I wanted to learn React Native and to build something that I could use in my daily work. I also wanted to learn how to use the [React Native Elements](https://react-native-elements.github.io/) library. Thus, I decided to build Rotodex.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<!-- What problem does it solve? -->
+<!-- What did you learn? -->
+<!-- What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here. -->
 
-## Get a fresh project
+## Installation
 
-When you're ready, run:
+## Usage
 
-```bash
-npm run reset-project
-```
+## Roadmap
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### v0.1
 
-## Learn more
+- [] Basic app functionality
+  - [] Pokemon List
+  - [] Pokemon Detail Cards
+  - [] Search, Sort, Filter
 
-To learn more about developing your project with Expo, look at the following resources:
+### Initital Feature Outline
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+| PokeDex    | Card Detail       | Trainer Collection | User Auth |
+| ---------- | ----------------- | ------------------ | --------- |
+| Search     | Single Pokemon    | List of collected  | Signup    |
+| Filter     | Image/Sprite      | Trainer Stats      | Login     |
+| Sort       | Details           |                    |           |
+| List Items | Add to Collection |                    |           |
 
-## Join the community
+## Resources & Attribution
 
-Join our community of developers creating universal apps.
+Data source: [Pokedex](http://pokeapi.com)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Copyrights and License
+
+&copy; 2024 Julianne Vela  
+RotoDex is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full license text.
+
+## Contact
+
+Twitter: [@nessi_codes](https://twitter.com/nessi_codes)
